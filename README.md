@@ -8,12 +8,12 @@ A book search engine that can allow the user to create an account and save books
 
 The following images show the web application's appearance and functionality:
 
-![1](./Assets/11-express-homework-demo-01.png)
+![1](./Assets/01.png)
 
-![2](./Assets/11-express-homework-demo-02.png)       
+![2](./Assets/02.png)       
 
-![2](./Assets/11-express-homework-demo-02.png)  
+![2](./Assets/03.png)  
 
 ## Links
-* [*Heroku*]()
-* [*Github Repository*]()
+* [*Heroku*](https://booksearch-dal.herokuapp.com/)
+* [*Github Repository*](https://github.com/daliyaebenny/Book-Search-Engine.git)
